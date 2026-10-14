@@ -1,0 +1,485 @@
+[
+  {
+    "file": "00_BASE.ST",
+    "change": "Referencia: figura del usuario",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H01.ST",
+    "change": "Campo 1: 1 → 2",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H02.ST",
+    "change": "Campo 2: 17 → 24",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H03.ST",
+    "change": "Campo 3: 0 → 70",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H04.ST",
+    "change": "Campo 4: 0 → -10",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H05.ST",
+    "change": "Campo 5: 35.443407 → 60",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H06.ST",
+    "change": "Campo 6: 0 → -10",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H07.ST",
+    "change": "Campo 7: 35.086264 → 60",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H08.ST",
+    "change": "Campo 8: 0 → 10",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H09.ST",
+    "change": "Campo 9: 0 → 10",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H10.ST",
+    "change": "Campo 10: 1 → 2",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H11.ST",
+    "change": "Campo 11: 1 → 2",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H12.ST",
+    "change": "Campo 12: 0 → 1",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H13.ST",
+    "change": "Campo 13: 0 → 150",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H14.ST",
+    "change": "Campo 14: 0 → 1",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H15.ST",
+    "change": "Campo 15: 0 → 1",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H16.ST",
+    "change": "Campo 16: 0 → 1",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H17.ST",
+    "change": "Campo 17: 0 → 1",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "H18.ST",
+    "change": "Campo 18: 3 → 2 (conteo deliberadamente discordante; prueba del lector, no exportación válida)",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 29,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35.443407241853336,
+        "minY": 0,
+        "maxY": 35.086264384710475
+      },
+      "totalDistanceMm": "70.8",
+      "widthMm": "35.4",
+      "lengthMm": "35.1",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "P_CONTROL_X.ST",
+    "change": "Registro 2, x: 25 → 15; cabecera conservada para aislar el cambio",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 32,
+      "bounds": {
+        "minX": 0,
+        "maxX": 36.00970508005519,
+        "minY": 0,
+        "maxY": 37.88470508005519
+      },
+      "totalDistanceMm": "78.3",
+      "widthMm": "36.0",
+      "lengthMm": "37.9",
+      "widthIn": "1.4",
+      "lengthIn": "1.5",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "P_CONTROL_Y.ST",
+    "change": "Registro 2, y: 35 → 25; cabecera conservada para aislar el cambio",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 20,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35,
+        "minY": 0,
+        "maxY": 25.03200400867108
+      },
+      "totalDistanceMm": "48.4",
+      "widthMm": "35.0",
+      "lengthMm": "25.0",
+      "widthIn": "1.4",
+      "lengthIn": "1.0",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "P_FINAL_X.ST",
+    "change": "Registro 3, x: 35 → 45; cabecera conservada para aislar el cambio",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 31,
+      "bounds": {
+        "minX": 0,
+        "maxX": 45.00167103265392,
+        "minY": 0,
+        "maxY": 35.6834892144721
+      },
+      "totalDistanceMm": "75.3",
+      "widthMm": "45.0",
+      "lengthMm": "35.7",
+      "widthIn": "1.8",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  },
+  {
+    "file": "P_CODE32_TO16.ST",
+    "change": "Registro 2, code: 32 → 16; cabecera conservada para aislar el cambio",
+    "observationInEmbro": null,
+    "expectedPlugit": {
+      "total": 3,
+      "allStitch": 26,
+      "bounds": {
+        "minX": 0,
+        "maxX": 35,
+        "minY": 0,
+        "maxY": 35
+      },
+      "totalDistanceMm": "61.6",
+      "widthMm": "35.0",
+      "lengthMm": "35.0",
+      "widthIn": "1.4",
+      "lengthIn": "1.4",
+      "maxStitchLengthMm": "2.5"
+    }
+  }
+]
